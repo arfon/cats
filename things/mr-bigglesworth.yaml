@@ -1,0 +1,37 @@
+default_name:
+  value: Mr Bigglesworth
+  origin:
+default_movie_name:
+  value: Austin Powers: International Man Of Mystery
+  origin: http://www.imdb.com/title/tt0118655/
+default_colour:
+  value: White
+  origin:
+default_hero_or_villan:
+  value: Villan
+  origin:
+
+  - name: "Name"
+    kind: "String"
+    units: ""
+    required: "true"
+    group: "Default"
+    key: "default_name"
+  - name: "Movie Name"
+    kind: "String"
+    units: ""
+    required: "true"
+    group: "Default"
+    key: "default_movie_name"
+  - name: "Colour"
+    kind: "String"
+    units: ""
+    required: "false"
+    group: "Default"
+    key: "default_colour"
+  - name: "Hero or villan"
+    kind: "String"
+    units: ""
+    required: ""
+    group: "Default"
+    key: "default_hero_or_villan"

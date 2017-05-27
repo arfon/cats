@@ -1,0 +1,12 @@
+default_name:
+  value: Oliver
+  origin:
+default_movie_name:
+  value: Oliver & Company
+  origin: http://www.imdb.com/title/tt0095776/
+default_colour:
+  value: Brown
+  origin:
+default_hero_or_villan:
+  value: Hero
+  origin:

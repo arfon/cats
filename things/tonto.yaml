@@ -1,0 +1,12 @@
+default_name:
+  value: Tonto
+  origin:
+default_movie_name:
+  value: Harry & Tonto
+  origin: http://www.imdb.com/title/tt0071598
+default_colour:
+  value: Orange
+  origin:
+default_hero_or_villan:
+  value: Hero
+  origin:

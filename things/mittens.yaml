@@ -1,0 +1,12 @@
+default_name:
+  value: Mittens
+  origin:
+default_movie_name:
+  value: Bolt
+  origin: http://www.imdb.com/title/tt0397892/
+default_colour:
+  value: Black and white
+  origin:
+default_hero_or_villan:
+  value: Hero
+  origin:

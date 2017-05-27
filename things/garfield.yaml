@@ -1,0 +1,12 @@
+default_name:
+  value: Garfield
+  origin:
+default_movie_name:
+  value: Garfield: The Movie
+  origin: http://www.imdb.com/title/tt0356634/
+default_colour:
+  value: Orange
+  origin:
+default_hero_or_villan:
+  value: Hero
+  origin:
